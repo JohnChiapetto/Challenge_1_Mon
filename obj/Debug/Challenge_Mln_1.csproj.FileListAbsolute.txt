@@ -1,0 +1,7 @@
+C:\DotNetProjects\DotNetProjects\DotNet_Fundamentals\Challenge_Mln_1\bin\Debug\Challenge_Mln_1.exe.config
+C:\DotNetProjects\DotNetProjects\DotNet_Fundamentals\Challenge_Mln_1\bin\Debug\Challenge_Mln_1.exe
+C:\DotNetProjects\DotNetProjects\DotNet_Fundamentals\Challenge_Mln_1\bin\Debug\Challenge_Mln_1.pdb
+C:\DotNetProjects\DotNetProjects\DotNet_Fundamentals\Challenge_Mln_1\obj\Debug\Challenge_Mln_1.csprojAssemblyReference.cache
+C:\DotNetProjects\DotNetProjects\DotNet_Fundamentals\Challenge_Mln_1\obj\Debug\Challenge_Mln_1.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\DotNetProjects\DotNet_Fundamentals\Challenge_Mln_1\obj\Debug\Challenge_Mln_1.exe
+C:\DotNetProjects\DotNetProjects\DotNet_Fundamentals\Challenge_Mln_1\obj\Debug\Challenge_Mln_1.pdb
